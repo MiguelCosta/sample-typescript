@@ -1,0 +1,9 @@
+{
+  "extends": "../tsconfig.base",
+  "compilerOptions": {
+    "removeComments": true
+  },
+  "include": [
+    "./**/*"                       /* Serve para incluir todos os ficheiros typescript*/
+  ]
+}
